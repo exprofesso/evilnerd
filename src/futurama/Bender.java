@@ -25,6 +25,9 @@ public class Bender {
         PFry.output();
 
 
+
+
+
         String heroes [] = {"Барт", "Бендер", "Рик", "Гомер", "Морти"};
 
         for (int i = 0; i <heroes.length; i++){

@@ -1,6 +1,6 @@
 package futurama;
 
-public class Rik {
+public class Rik extends Multik {
     public static void main(String[] args) {
 
         int massiv1 [] [] = {{12,42,61,6,4},{1,66,87,39,2}};
@@ -34,4 +34,9 @@ public class Rik {
     }
 
   //  hour = ((h>0 && h<24) ? h:0);
+
+
+    public void mult(){
+        System.out.println("Йа метод жизнь-!!!");
+    }
 }
